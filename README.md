@@ -7,18 +7,22 @@ This project is about building a machine learning model that predicts which twee
 
 
 # [Project 2: Diamond_price_prediction](https://github.com/InesSouissi98/Diamond_price_prediction)
+The goal of this project is to predict the price of the diamonds.
 
 
 # [Project 3: Breast cancer prediction](https://github.com/InesSouissi98/Breast_cancer_prediction)
+Classifying mammograms into normal cases or cancer cases using several pretrained models
 
 
 # [Project 4: chest-x-ray prediction](https://github.com/InesSouissi98/chest-x-ray_prediction)
-
+The project detects and classifies pneumonia disease from X-Ray images.
 
 # [Project 5: Image forecasting](https://github.com/InesSouissi98/Image_forecasting)
-
+This project used a linear method for image-based time series forecasting
 
 # [Project 6: Maize crops classification](https://github.com/InesSouissi98/Maize_crops_classification)
+The objective of this project is to classify if a plant has been affected by a fall armyworm.
 
 
 # [Project 7: Mammogram retrieval](https://github.com/InesSouissi98/mammogram_retrieval)
+This project applies content-based mammogram retrieval method using dynamic distances for the decison making.
