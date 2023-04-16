@@ -12,7 +12,7 @@ Natural language processing libraries: Tokenizer, CountVectorizer and TfidfVecto
 Machine learning algorithms: Logistic Regression
 
 
-# [Project 2: Diamond_price_prediction](https://github.com/InesSouissi98/Diamond_price_prediction)
+# [Project 2: Diamond price prediction](https://github.com/InesSouissi98/Diamond_price_prediction)
 The goal of this project is to predict the price of the diamonds. 
 
 **Tools:** <br>
