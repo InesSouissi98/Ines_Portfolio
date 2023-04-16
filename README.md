@@ -61,7 +61,7 @@ Deep learning models: VGG16, VGG19 and CNN model. <br>
 
 
 # [Project 7: Mammogram retrieval](https://github.com/InesSouissi98/mammogram_retrieval)
-This project applies content-based mammogram retrieval method using dynamic distances for the decison making.
+This project implements a content-based mammogram retrieval system that uses similarity metrics to automatically retrieve similar images from a database, in order to assist radiologists in detecting breast cancer and making accurate diagnoses.
 
 **Tools :** <br>
 Programming language: Python. <br>
