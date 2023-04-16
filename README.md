@@ -51,7 +51,7 @@ data visualization libraries: OpenCV. <br>
 Machine learning algorithm: Linear Regression. <br>
 
 # [Project 6: Maize crops classification](https://github.com/InesSouissi98/Maize_crops_classification)
-The objective of this project is to classify if a plant has been affected by a fall armyworm.
+The objective of this project is to classify plant images as either infected or uninfected by fall armyworm, to help farmers take appropriate measures to manage its spread and minimize crop losses.
 
 **Tools :** <br>
 Programming language: Python. <br>
