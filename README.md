@@ -23,7 +23,7 @@ Machine learning algorithms: XGBRegressor, random forests. <br>
 
 
 # [Project 3: Breast cancer prediction](https://github.com/InesSouissi98/Breast_cancer_prediction)
-Classifying mammograms into normal cases or cancer cases using several pretrained models.
+Classifying mammograms into normal cases or cancer cases for the early detection and treatment of breast cancer..
 
 **Tools :** <br>
 Programming language: Python. <br>
