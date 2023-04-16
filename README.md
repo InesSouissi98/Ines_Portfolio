@@ -7,7 +7,7 @@ This project is about building a machine learning model that predicts which twee
 
 **Tools:** <br >
 Programming language: Python <br >
-Data preprocessing and analysis libraries: pandas, NumPy, scikit-learn and keras. <br >
+Data preprocessing and analysis libraries: Pandas, NumPy, scikit-learn and keras. <br >
 Natural language processing libraries: Tokenizer, CountVectorizer and TfidfVectorizer. <br >
 Machine learning algorithms: Logistic Regression
 
@@ -17,7 +17,7 @@ The goal of this project is to predict the price of the diamonds.
 
 **Tools:** <br>
 Programming language: Python <br>
-Data preprocessing and analysis libraries: pandas, NumPy. <br>
+Data preprocessing and analysis libraries: Pandas, NumPy. <br>
 data visualization libraries such as Matplotlib, Seaborn.<br>
 Machine learning algorithms: XGBRegressor, random forests. <br>
 
@@ -27,7 +27,7 @@ Classifying mammograms into normal cases or cancer cases using several pretraine
 
 **Tools :** <br>
 Programming language: Python. <br>
-Data processing libraries: pandas, NumPy and scikit-learn. <br>
+Data processing libraries: Pandas, NumPy and scikit-learn. <br>
 deep learning libraries: TensorFlow, and Keras. <br>
 Deep learning models: VGG16, VGG19, ResNet50, ResNet101, MobileNet, DenseNet201, EfficientNetB7, Xception and InceptionResNetV2.
 
@@ -35,9 +35,9 @@ Deep learning models: VGG16, VGG19, ResNet50, ResNet101, MobileNet, DenseNet201,
 # [Project 4: chest-x-ray prediction](https://github.com/InesSouissi98/chest-x-ray_prediction)
 The project detects and classifies pneumonia disease from X-Ray images.
 
-**Tools :**
+**Tools :** <br>
 Programming language: Python. <br>
-Data processing libraries: pandas and NumPy. <br>
+Data processing libraries: Pandas and NumPy. <br>
 deep learning libraries: TensorFlow, and Keras. <br>
 Deep learning model: VGG16. <br>
 
@@ -46,7 +46,7 @@ This project used a linear method for image-based time series forecasting
 
 **Tools :** <br>
 Programming language: Python. <br>
-Data preprocessing and analysis libraries: pandas, NumPy, Pytorch. <br>
+Data preprocessing and analysis libraries: Pandas, NumPy, Pytorch. <br>
 data visualization libraries: OpenCV. <br>
 Machine learning algorithm: Linear Regression. <br>
 
@@ -55,7 +55,7 @@ The objective of this project is to classify if a plant has been affected by a f
 
 **Tools :** <br>
 Programming language: Python. <br>
-Data processing libraries: pandas and NumPy. <br>
+Data processing libraries: Pandas and NumPy. <br>
 deep learning libraries: TensorFlow and Keras. <br>
 Deep learning models: VGG16, VGG19 and CNN model. <br> 
 
@@ -65,6 +65,6 @@ This project applies content-based mammogram retrieval method using dynamic dist
 
 **Tools :** <br>
 Programming language: Python. <br>
-Data processing libraries: pandas and NumPy. <br>
+Data processing libraries: Pandas and NumPy. <br>
 Similarity metrics: Euclidian, Minkowski, Dice, Cosine, Correlation, Canberra, Chebyshev and Hamming.<br>
 Deep learning model: VGG16.
