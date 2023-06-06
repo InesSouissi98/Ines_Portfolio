@@ -77,6 +77,6 @@ Implementing using python3 an Instagram connector allowing to collect posts (ima
 
 **Tools :** <br>
 Programming language: Python <br>
-Database: MongoDB
-Library: pymongo 
-API: instaloader
+Database: MongoDB <br>
+Library: pymongo  <br>
+API: instaloader <br>
