@@ -57,7 +57,8 @@ The objective of this project is to classify plant images as either infected or 
 Programming language: Python. <br>
 Data processing libraries: Pandas and NumPy. <br>
 deep learning libraries: TensorFlow and Keras. <br>
-Deep learning models: VGG16, VGG19 and CNN model. <br> 
+Deep learning models: VGG16, VGG19 and CNN model. <br>
+
 
 
 # [Project 7: Mammogram retrieval](https://github.com/InesSouissi98/mammogram_retrieval)
@@ -68,3 +69,14 @@ Programming language: Python. <br>
 Data processing libraries: Pandas and NumPy. <br>
 Similarity metrics: Euclidian, Minkowski, Dice, Cosine, Correlation, Canberra, Chebyshev and Hamming.<br>
 Deep learning model: VGG16.
+
+
+
+# [Project 8: Web scraper](https://github.com/InesSouissi98/connecteurInsta)
+Implementing using python3 an Instagram connector allowing to collect posts (image, text and comments linked to images) in relation to a defined subject, and storing texts and images in a MongoDB database
+
+**Tools :** <br>
+Programming language: Python <br>
+Database: MongoDB
+Library: pymongo 
+API: instaloader
