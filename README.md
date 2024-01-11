@@ -80,3 +80,14 @@ Programming language: Python <br>
 Database: MongoDB <br>
 Library: pymongo  <br>
 API: instaloader <br>
+
+
+# [Project 9: LLM Conversational Agent](https://github.com/InesSouissi98/connecteurInsta)
+This project is about a Conversational LLM Agent, augmented with a continual learning system, which can resolve four issues that occur in continual learning: Duplicated memories, Contradictory memories, Temporary memories and Episodic memories.
+
+**Tools :** <br>
+Programming language: Python, NLP <br>
+Library: ConversationSummaryMemory  <br>
+Model: HuggingFaceH4/zephyr-7b-beta model
+API: Hugging Face API Key <br>
+
