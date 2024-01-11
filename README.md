@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! My name is Ines, and I am a machine learning developer. I have always been passionate about using data to gain insights and drive decision-making, and my portfolio showcases some of the projects that I have worked on to demonstrate my skills and experience in this field.
 
-# [Project 1: LLM Conversational Agent]([https://github.com/InesSouissi98/connecteurInsta](https://github.com/InesSouissi98/LLM-Conv-Agent))
+# [Project 1: LLM Conversational Agent](https://github.com/InesSouissi98/connecteurInsta](https://github.com/InesSouissi98/LLM-Conv-Agent)
 This project is about a Conversational LLM Agent, augmented with a continual learning system, which can resolve four issues that occur in continual learning: Duplicated memories, Contradictory memories, Temporary memories and Episodic memories.
 
 **Tools :** <br>
